@@ -1,0 +1,41 @@
+html, body, 
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+body {
+	font: .95em/1.75em Helvetica, Arial, sans-serif;
+	background-color: #e1f2fa;
+	word-wrap: break-word;
+}
+.nav-item a {
+	color: white;
+	font-weight: bold;
+	padding: 26px 15px;
+}
+.nav-item a:hover {
+	color: white;
+	background-color: #47a7d7;
+}
+.nav-item a:active {
+	color: white;
+	background-color: #47a7d7;
+}
+a:hover {
+	color: #069;
+}
+.nav-bg {
+	background-color: #006dbf;
+}
+
+.footer-li {
+	color: white;
+	font-weight: bold;
+}
+
+
+.navbar {
+	padding: 0;
+}
