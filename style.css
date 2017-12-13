@@ -34,8 +34,13 @@ a:hover {
 	color: white;
 	font-weight: bold;
 }
-
-
 .navbar {
 	padding: 0;
+}
+#hamburger {
+	color: #fff;
+	font-size: 1.5em;
+}
+#hamburger:hover {
+	cursor: pointer;
 }
