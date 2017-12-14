@@ -95,5 +95,14 @@ a:hover {
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-
+	
+}@media only screen and (max-width: 500px) {
+   
+.img-test {
+	width: 100%;
 }
+	.img-ad{
+		width: 100% !important;
+	}
+}
+
